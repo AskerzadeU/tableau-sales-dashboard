@@ -14,8 +14,8 @@ The dashboard analyzes:
 
 
 ## 🔗 Interactive Dashboard
-You can explore the interactive version here:  
-https://public.tableau.com/views/https://public.tableau.com/views/SalesDashboard_17673718188170/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+View the interactive dashboard on Tableau Public:
+(https://public.tableau.com/views/SalesDashboard_17673718188170/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## 🛠 Tools Used
 - Tableau Public
 - Data Visualization
