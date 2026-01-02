@@ -10,7 +10,9 @@ The dashboard analyzes:
 - Top performing products and platforms
 
 ## 🖼 Dashboard Preview
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Sales_Dashboard.png)
+
+
 
 
 ## 🔗 Interactive Dashboard
